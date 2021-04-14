@@ -31,4 +31,7 @@ public class ControlConversor implements ActionListener{
 		vista.escribeCambio(cantidad + " euros son: " 
 		+ modelo.eurosApesetas(cantidad) + "pesetas");	
 	}
+	
+	//Estos son comentarios para probar que si se subio correctamente y se esta
+	//actualizando 
 }
